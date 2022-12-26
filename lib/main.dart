@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
       title: 'Flutter First APP',
       theme: ThemeData(
         // This is the theme of my application.
-        primarySwatch: Colors.blue,
+        primarySwatch: Colors.red,
       ),
       home: const MyHomePage(title: 'Counter Page'),
     );
